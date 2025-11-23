@@ -1,5 +1,9 @@
 # tg_discord_rpc
 
+# !!!!!1!!!!1!!1
+#!! пока что не работает, репозиторий просто чтобы создать прт ключ в тг !!
+# 1!!!!1!!!11!!!
+
 ## Гайд по установке:
 1. питончик поставь
 2. pip install discord.py aiotdlib pydub mutagen requests pillow python-dotenv
